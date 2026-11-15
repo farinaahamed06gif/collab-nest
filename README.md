@@ -148,14 +148,57 @@ flowchart LR
 **🤖 AI-Powered Data Processing:** Powered by **Google Gemini AI**, ColllabNest analyses user inputs to generate intelligent market insights, creative content ideas and personalised weekly schedules, prioritising mental well-being and sustainable creator growth.
 
 ## 🛠️ 
-## 4. Tools and Technologies
 
-- **AI Integration:** Google Gemini AI (Gemini Flash models) – for market opportunity analysis, creative content suggestions and AI-powered weekly planning.
-- **Database & Backend Services:** Supabase – for storing creator profiles, weekly plans, daily tasks and collaboration data.
-- **API Development:** REST APIs – for creator discovery, collaboration requests, open listings and weekly plan management.
-- **Frontend:** HTML5, CSS3
-- **Programming Languages:** HTML, CSS, TypeScript
-- **Development Tools:** Git, GitHub and Visual Studio Code.
+## 🛠️ 4. Tools and Technologies
+
+---
+
+<!-- Technology Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React.js_19-149ECA?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-DeepSeek-9146FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+### 💻 Frontend Development
+
+- **React.js 19**, JavaScript (ES Modules), HTML5 and CSS3 – for building the interactive and responsive creator dashboard.
+
+### ⚙️ Backend Development
+
+- **Node.js** and **Express.js** – for server-side logic, API handling and backend communication.
+
+### ✨ AI Integration
+
+- **Adaption Labs API with DeepSeek AI** – for AI-powered suggestions, content analysis and intelligent creator insights.
+
+### 🗄️ Database & Backend Services
+
+- **Supabase** – for creator profiles, planning data and collaboration information.
+
+### ☁️ API Communication
+
+- **REST APIs** – for communication between the frontend, backend and AI services.
+
+### 🧰 Development Tools
+
+- **Git, GitHub, Visual Studio Code and ESLint** – for version control, collaboration, coding and maintaining code quality.
+
+### 🚀 Deployment
+
+- **Vercel** – for hosting the web application.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20With-React%20%7C%20Node.js%20%7C%20AI-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Powered%20By-CollabNest-8A2BE2?style=for-the-badge" />
+</p>
+
 
 ## 5. Method-Workflow
 
